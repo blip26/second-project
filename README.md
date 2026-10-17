@@ -1,2 +1,2 @@
-# second-project
-my second project :)
+# Second project!
+learning *css*, and pages!
