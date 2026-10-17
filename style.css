@@ -6,5 +6,7 @@ body {
 }
 
 .The-title {
- color: #FFFFFF;
+  color: #FFFFFF;
+  textalign: center;
+  font-size: 50px;
 }
