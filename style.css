@@ -18,7 +18,12 @@ body {
 }
 
 .the-boxes {
-
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  gap: 20px;
+  padding: 20px;
+  background-color: #247E63;
 }
 
 .boxes {
