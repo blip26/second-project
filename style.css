@@ -31,10 +31,13 @@ p {
 }
 
 .boxes {
+  flex: 0 0 250px;
   background-color: #333469;
   border-radius: 20px;
   padding: 15px;
   text-align: center;
+
+  scroll-snap-align: start;
 }
 
 .gallery-imgs {
