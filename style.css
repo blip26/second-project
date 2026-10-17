@@ -5,6 +5,10 @@ body {
   font-family: 'Arial', sans-serif;
 }
 
+p {
+  color: #FFFFFF;
+}
+
 #The-title {
   color: #FFFFFF;
   text-align: center;
@@ -30,6 +34,7 @@ body {
   background-color: #333469;
   border-radius: 20px;
   padding: 15px;
+  text-align: center;
 }
 
 .gallery-imgs {
