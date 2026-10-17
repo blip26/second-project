@@ -11,7 +11,8 @@ body {
   font-size: 50px;
 }
 
-.p {
+.text {
   color: #FFFFFF;
   text-align: center;
+  font-size: 20px;
 }
