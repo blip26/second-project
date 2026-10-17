@@ -22,10 +22,11 @@ body {
   overflow-x: auto;
   scroll-behavior: smooth;
   gap: 20px;
-  padding: 20px;
+  padding: 25px;
   background-color: #364B70;
 }
 
 .boxes {
   background-color: #333469;
+  border-radius: 5px;
 }
