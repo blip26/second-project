@@ -1,2 +1,2 @@
 # Second project!
-learning *css*, and pages!
+learning *css* this time :)
