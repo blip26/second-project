@@ -50,9 +50,10 @@ p {
 }
 
 .gallery-captions {
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .gallery-credits {
   color: #474747;
+  font-size: 10px;
 }
