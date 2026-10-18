@@ -47,8 +47,9 @@ p {
 
 .gallery-imgs {
   border-radius: 20px;
-  width: 220px;
-  height: 200px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .gallery-captions {
