@@ -36,7 +36,7 @@ p {
 }
 
 .boxes {
-  flex: 0 0 250px;
+  flex: 0 250px 250px;
   background-color: #333469;
   border-radius: 20px;
   padding: 15px;
@@ -47,6 +47,8 @@ p {
 
 .gallery-imgs {
   border-radius: 20px;
+  width: 220px;
+  height: 200px;
 }
 
 .gallery-captions {
