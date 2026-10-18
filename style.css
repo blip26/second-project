@@ -48,3 +48,11 @@ p {
 .gallery-imgs {
   border-radius: 20px;
 }
+
+.gallery-captions {
+  font-size: 15px;
+}
+
+.gallery-credits {
+  color: #474747;
+}
