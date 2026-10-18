@@ -41,11 +41,13 @@ p {
   border-radius: 20px;
   padding: 15px;
   text-align: center;
+  align-items: stretch;
 
   scroll-snap-align: start;
 }
 
 .gallery-imgs {
+  display: block;
   border-radius: 20px;
   width: 220px;
   height: 200px;
